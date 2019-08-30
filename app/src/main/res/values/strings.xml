@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HackerNews</string>
+    <string name="tv_top_stories">Top Stories</string>
+    <string name="tv_my_favourite">My Favourite</string>
+    <string name="tv_story_detail">Story Detail</string>
+    <string name="tv_deskripsi">Deskripsi :</string>
+    <string name="tv_komentar">Komentar</string>
+</resources>
